@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Ri-Raghav/product-preview-flexbox)
-- Live Site URL: [Add live site URL here](https://ri-raghav.github.io/product-preview-flexbox)
+- [Solution URL](https://github.com/Ri-Raghav/product-preview-flexbox)
+- [Live Site URL](https://ri-raghav.github.io/product-preview-flexbox)
 
 ## My process
 
